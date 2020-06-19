@@ -1,0 +1,15 @@
+C:\Users\johw2\Desktop\Workspace .NET Core\Test_Process\bin\Debug\netcoreapp3.1\Test_Process.exe
+C:\Users\johw2\Desktop\Workspace .NET Core\Test_Process\bin\Debug\netcoreapp3.1\Test_Process.deps.json
+C:\Users\johw2\Desktop\Workspace .NET Core\Test_Process\bin\Debug\netcoreapp3.1\Test_Process.runtimeconfig.json
+C:\Users\johw2\Desktop\Workspace .NET Core\Test_Process\bin\Debug\netcoreapp3.1\Test_Process.runtimeconfig.dev.json
+C:\Users\johw2\Desktop\Workspace .NET Core\Test_Process\bin\Debug\netcoreapp3.1\Test_Process.dll
+C:\Users\johw2\Desktop\Workspace .NET Core\Test_Process\bin\Debug\netcoreapp3.1\Test_Process.pdb
+C:\Users\johw2\Desktop\Workspace .NET Core\Test_Process\obj\Debug\netcoreapp3.1\Test_Process.csprojAssemblyReference.cache
+C:\Users\johw2\Desktop\Workspace .NET Core\Test_Process\obj\Debug\netcoreapp3.1\Test_Process.AssemblyInfoInputs.cache
+C:\Users\johw2\Desktop\Workspace .NET Core\Test_Process\obj\Debug\netcoreapp3.1\Test_Process.AssemblyInfo.cs
+C:\Users\johw2\Desktop\Workspace .NET Core\Test_Process\obj\Debug\netcoreapp3.1\Test_Process.dll
+C:\Users\johw2\Desktop\Workspace .NET Core\Test_Process\obj\Debug\netcoreapp3.1\Test_Process.pdb
+C:\Users\johw2\Desktop\Workspace .NET Core\Test_Process\obj\Debug\netcoreapp3.1\Test_Process.genruntimeconfig.cache
+C:\Users\johw2\Desktop\Workspace .NET Core\Test_Process\obj\Debug\netcoreapp3.1\Test_Process.csproj.CopyComplete
+C:\Users\johw2\Desktop\Workspace .NET Core\Test_Process\obj\Debug\netcoreapp3.1\Test_Process.csproj.CoreCompileInputs.cache
+C:\Users\johw2\Desktop\Workspace .NET Core\Test_Process\bin\Debug\netcoreapp3.1\PresentationFramework.dll
